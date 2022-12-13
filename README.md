@@ -20,7 +20,8 @@
 > This project is a pracice exercise entailing creation of PostgreSQL schema based on a diagram.
 
 # Diagram Used
-[ERD](./clinic_diagram.png);
+![clinic_diagram](https://user-images.githubusercontent.com/46225052/207304350-b89a1b71-f463-4a0f-bb72-bd72fdabb77d.png)
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
