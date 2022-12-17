@@ -1,5 +1,3 @@
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -12,8 +10,6 @@
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
-
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 Vet clinic database <a name="about-project"></a>
 
@@ -34,8 +30,6 @@
   </ul>
 </details>
 
-<!-- GETTING STARTED -->
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -52,8 +46,6 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 Run `git clone https://github.com/devMunyi/schema_based_on_diagram` to have a copy on your computer
 
-<!-- AUTHORS -->
-
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Samuel Munyi**
@@ -61,8 +53,11 @@ Run `git clone https://github.com/devMunyi/schema_based_on_diagram` to have a co
 - GitHub: [@githubhandle](https://github.com/devMunyi)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/samuel-munyi-01315b174/)
 
+👤 **Is-haq, Adnan Olamilekan**
 
-<!-- CONTRIBUTING -->
+- GitHub: [@AdnanOlarmmi](https://github.com/adnanolarmmi)
+- Twitter: [@AdnanIshaqOla](https://twitter.com/AdnanIshaqOla)
+- LinkedIn: [Adnan (Olamilekan) Is-haq](https://linkedin.com/in/adnan-is-haq-olamilekan)
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -70,21 +65,13 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-
-<!-- SUPPORT -->
-
 ## ⭐️ Show your support <a name="support"></a>
 Give a ⭐️ if you like this project!
-
-
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - Hat tip to anyone whose code was used
 - Inspiration
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
